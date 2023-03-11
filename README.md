@@ -1,8 +1,5 @@
-### Hi there 👋
 
 <!--
-**c2mx/c2mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+
+
+
+## :chart_with_upwards_trend:	 Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=c2mx&show_icons=true&hide=contribs&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c2mx&layout=compact)
+
